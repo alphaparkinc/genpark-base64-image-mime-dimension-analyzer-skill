@@ -1,0 +1,6 @@
+name: genpark-base64-image-mime-dimension-analyzer-skill
+version: 1.0.0
+description: Zero-dependency binary image header parser extracting dimensions, aspect ratios, byte sizes, and MIME types
+command: python
+args:
+  - mcp_server.py
